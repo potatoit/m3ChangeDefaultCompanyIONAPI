@@ -2,7 +2,7 @@
 
 This script will change the default company/division of user(s) in MNS150 (it will also add them to that company/division in MNS151)  
 
-Arguments:  
+## Arguments:  
  	-IONAPI <path to .ionapi file>  
 	-Company <company>  
 	-Division <division>  
@@ -14,5 +14,5 @@ Arguments:
   
 The .ionapi file should be created as a background application with a valid service account.  
   
-History  
+## History  
 		20200518	- corrected expiry token call  
