@@ -1,6 +1,8 @@
 # m3ChangeDefaultCompanyIONAPI
 
 This script will change the default company/division of user(s) in MNS150 (it will also add them to that company/division in MNS151)  
+  
+  **This script is provided as is as an example, there is no support for the script.  It may work for your scenario, it may not.  Use with caution**.
 
 ## Arguments:  
  	-IONAPI <path to .ionapi file>  
